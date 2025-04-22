@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrakModul1_DiceRoller</string>
+    <string name="roll_dice">Roll the Dice!</string>
+
+</resources>
