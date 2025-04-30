@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS Mobile_Biografi Mahasiswa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="student_name">Akhmad Chaidar Ananda</string>
+    <string name="student_description">Mahasiswa yang berkuliah di Universitas Lambung Mangkurat, sekarang sedang menjalani semester 4 dan mengerjakan UTS Pemrograman Mobile</string>
+
+</resources>

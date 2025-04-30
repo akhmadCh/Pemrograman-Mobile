@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".InfoFragment">
+
+    <TextView
+        android:id="@+id/tv_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/student_name"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        />
+
+    <ImageView
+        android:id="@+id/img_item_photo_mahasiswa"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/chaidar"
+        />
+
+    <TextView
+        android:id="@+id/tv_item_description"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="@string/student_description"
+        android:textAlignment="textStart"
+        android:layout_marginTop="8dp"
+        android:textStyle="italic"
+        android:textColor="@color/black"
+        />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_goto_detail"
+        style="@style/Widget.Material3.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/black"
+        android:text="Details"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        />
+
+</LinearLayout>
