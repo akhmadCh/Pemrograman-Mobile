@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InfoFragment"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/tv_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/title"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:textColor="@color/text2"
+        />
+
+    <ImageView
+        android:id="@+id/img_item_photo_warik"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/img"
+        />
+
+    <TextView
+        android:id="@+id/tv_item_description"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="@string/warik_information"
+        android:textAlignment="textStart"
+        android:layout_marginTop="8dp"
+        android:textStyle="italic"
+        android:textColor="@color/accent_color2"
+        />
+
+</LinearLayout>
