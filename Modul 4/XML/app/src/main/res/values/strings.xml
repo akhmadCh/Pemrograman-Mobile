@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Modul 3 WarixMaxxing App</string>
+    <string name="btn_detail">Details</string>
+    <string name="btn_instagram">Instagram</string>
+    <string name="title">WARIK MAXXING</string>
+
+    <string-array name="data_name">
+        <item>Muhammad Ibnu Sina</item>
+        <item>Raymond Hariyono</item>
+        <item>Allano Lintang Ertantora</item>
+        <item>Abdurrahman Gilang Harjuna</item>
+        <item>Nazmi Hakim</item>
+        <item>Akhmad Chaidar Ananda</item>
+    </string-array>
+
+    <string-array name="data_warik_name">
+        <item>Apeci Apecu Klutuk Klutuk</item>
+        <item>Pelaihari Gak Jelas</item>
+        <item>HKSN BAU</item>
+        <item>BJB BASAH</item>
+        <item>Hamzi Namik Manarap Mewing</item>
+        <item>Croissant Kacapiring</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/ibnu</item>
+        <item>@drawable/raymond</item>
+        <item>@drawable/allano</item>
+        <item>@drawable/arjun</item>
+        <item>@drawable/hakim</item>
+        <item>@drawable/chaidar</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://www.instagram.com/mhmmdbnu__/</item>
+        <item>https://www.instagram.com/rymnddd_/</item>
+        <item>https://www.instagram.com/allanolintang18_/</item>
+        <item>https://www.instagram.com/harjunabdrhmn</item>
+        <item>https://www.instagram.com/nazmihakimz/</item>
+        <item>https://www.instagram.com/akhmdch/</item>
+    </string-array>
+
+    <string-array name="data_details">
+        <item>Warik yang berasal dari kota Banjar Baru, warik ini dikenal dengan sebutan Ibcu Apeci Apecu Klutuk Klutuk, dia merupakan warik yang sangat subur.</item>
+        <item>Warik yang berasal dari kota Pelaihari, warik ini dikenal dengan sebutan Pelaihari Gak Jelas, dia merupakan warik yang sangat suka thrifting</item>
+        <item>Warik yang berasal dari kota Banjarmasin tepatnya di HKSN, warik ini dikenal dengan sebutan HKSN BAU SAMPAH, dia merupakan warik yang sangat suka mencari duit di kantong celana</item>
+        <item>Warik yang berasal dari kota Banjar Baru Basah tepatnya di Landasan Ulin banyak begal, warik ini dikenal dengan sebutan Banjar Baru Basah Arjun Basah, dia merupakan warik yang sangat suka gym dan suka menerobos hujan dengan memakai jas hujan yang bagian pantantnya bolong</item>
+        <item>Warik yang berasal dari kota Banjarmasin tepatnya di Manarap Mewing, warik ini dikenal dengan sebutan Hamzi Namik, dia merupakan warik yang suka gym seperti warik BJB Basah dan sangat suka bermain tebak-tebakan</item>
+        <item>Warik yang berasal dari kota Palangka Raya namun berada di Banjarmasin Kacapiring, warik ini dikenal dengan sebutan Croissant Kacapiring, dia merupakan warik yang suka menjahili warik-warik lainnya</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="warik_information">Warik Maxxing adalah sekumpulan warik gila yang sedang berkuliah di Universitas Lambung Mangkurat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
