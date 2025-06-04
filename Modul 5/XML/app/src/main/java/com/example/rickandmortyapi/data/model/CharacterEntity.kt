@@ -1,0 +1,13 @@
+package com.example.rickandmortyapi.data.model
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "favorites")
+data class CharacterEntity(
+    @PrimaryKey val id: Int,
+    val name: String,
+    val species: String,
+    val status: String,
+    val image: String
+)
